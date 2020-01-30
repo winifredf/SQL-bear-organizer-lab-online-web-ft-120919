@@ -1,1 +1,1 @@
-CREATE TABLE bears (ID INTEGER PRIMARY KEY, name TEXT, age INTEGER, gender INTEGER, color INTEGER, temperature INTEGER, alive INTEGER);
+CREATE TABLE bears (ID INTEGER PRIMARY KEY, name TEXT, age INTEGER, gender INTEGER, color INTEGER, temperament INTEGER, alive INTEGER
